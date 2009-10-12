@@ -13,4 +13,54 @@
 
 as: &lt;i&gt;well-lit&lt;/i&gt;</back_example>
   </card>
+  <card id="_1255335095">
+    <front>黑色</front>
+    <back>black</back>
+    <back_example>[ㄏㄟ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335136">
+    <front>白色</front>
+    <back>white</back>
+    <back_example>[ㄅㄞˊ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335152">
+    <front>綠色</front>
+    <back>green</back>
+    <back_example>[ㄌㄩˋ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335181">
+    <front>黃色</front>
+    <back>yellow</back>
+    <back_example>[ㄏㄨㄤˊ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335223">
+    <front>橙色</front>
+    <back>orange</back>
+    <back_example>[ㄔㄥˊ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335236">
+    <front>藍色</front>
+    <back>blue</back>
+    <back_example>[ㄌㄢˊ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335257">
+    <front>紅色</front>
+    <back>red</back>
+    <back_example>[ㄏㄨㄥˊ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335303">
+    <front>粉紅色</front>
+    <back>pink</back>
+    <back_example>[ㄈㄣˇ ㄏㄨㄥˊ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335338">
+    <front>紫紅色</front>
+    <back>purple</back>
+    <back_example>[ㄗˇ ㄏㄨㄥˊ ㄙㄜˋ]</back_example>
+  </card>
+  <card id="_1255335383">
+    <front>灰色</front>
+    <back>grey</back>
+    <back_example>[ㄏㄨㄟ ㄙㄜˋ]</back_example>
+  </card>
 </deck>
