@@ -1,20 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE deck SYSTEM "http://granule.sourceforge.net/granule.dtd">
 <deck>
-  <author>Main</author>
+  <author>Gergely Imreh</author>
   <description>Created on Mon 12 Oct 2009 12:48:01 CST</description>
   <sound_path relative="no"/>
   <pics_path relative="no"/>
   <appearance enabled="no"/>
-  <card id="_1255322897">
-    <front>我洗耳恭聽。
-[ㄨㄛˇ ㄒㄧˇ ㄦˇ ㄍㄨㄥ ㄊㄧㄥ]</front>
-    <back>I'm all ears.</back>
+  <card id="_1255324762">
+    <front>我很想見你。</front>
+    <back>I'm dying to see you.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255324684">
+    <front>去死吧！</front>
+    <back>Go to hell!</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255324650">
+    <front>你太客氣了。</front>
+    <back>You are welcome.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255324636">
+    <front>不關我事。</front>
+    <back>None of your business.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255324674">
+    <front>注意言辭。</front>
+    <back>Watch your mouth.</back>
     <back_example></back_example>
   </card>
   <card id="_1255322991">
     <front>一言難盡。</front>
     <back>It's a long story.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255324783">
+    <front>你今天看起來不大對勁。</front>
+    <back>You don't seem to be quite yourself today.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255324700">
+    <front>睡得香。</front>
+    <back>Sleeping on both ears.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255322897">
+    <front>我洗耳恭聽。</front>
+    <back>I'm all ears.</back>
+    <back_example>[ㄨㄛˇ ㄒㄧˇ ㄦˇ ㄍㄨㄥ ㄊㄧㄥ]</back_example>
+  </card>
+  <card id="_1255324723">
+    <front>我當家。</front>
+    <back>I am the one wearing pants in the house.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255324744">
+    <front>害怕做某事。</front>
+    <back>Get cold feet.</back>
     <back_example></back_example>
   </card>
 </deck>
