@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deck SYSTEM "http://granule.sourceforge.net/granule.dtd">
+<deck>
+  <author>Main</author>
+  <description>Created on Mon 12 Oct 2009 13:30:49 CST</description>
+  <sound_path relative="no"/>
+  <pics_path relative="no"/>
+  <appearance enabled="no"/>
+  <card id="_1255326239">
+    <front>明亮</front>
+    <back>bright</back>
+    <back_example>[ㄇㄧㄥˊ ㄌㄧㄤˋ]
+
+as: &lt;i&gt;well-lit&lt;/i&gt;</back_example>
+  </card>
+</deck>
