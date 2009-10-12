@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deck SYSTEM "http://granule.sourceforge.net/granule.dtd">
+<deck>
+  <author>Main</author>
+  <description>Created on Mon 12 Oct 2009 12:48:01 CST</description>
+  <sound_path relative="no"/>
+  <pics_path relative="no"/>
+  <appearance enabled="no"/>
+  <card id="_1255322897">
+    <front>我洗耳恭聽。
+[ㄨㄛˇ ㄒㄧˇ ㄦˇ ㄍㄨㄥ ㄊㄧㄥ]</front>
+    <back>I'm all ears.</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255322991">
+    <front>一言難盡。</front>
+    <back>It's a long story.</back>
+    <back_example></back_example>
+  </card>
+</deck>

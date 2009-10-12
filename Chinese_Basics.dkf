@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deck SYSTEM "http://granule.sourceforge.net/granule.dtd">
+<deck>
+  <author>Gergely Imreh</author>
+  <description>Created on Mon 12 Oct 2009 12:36:52 CST</description>
+  <sound_path relative="no"/>
+  <pics_path relative="no"/>
+  <appearance enabled="no"/>
+  <card id="_1255322251">
+    <front>或者
+[ㄏㄨㄛˋ ㄓㄜˇ] </front>
+    <back>or</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255322692">
+    <front>可是
+[ㄎㄜˇ ㄕˋ] </front>
+    <back>but, however, though </back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255322836">
+    <front>只
+[ㄓˇ]</front>
+    <back>only, merely, just</back>
+    <back_example></back_example>
+  </card>
+  <card id="_1255322859">
+    <front>因為
+[ㄧㄣ ㄨㄟˋ] </front>
+    <back>because</back>
+    <back_example></back_example>
+  </card>
+</deck>
