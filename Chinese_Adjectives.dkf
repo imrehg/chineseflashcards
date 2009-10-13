@@ -63,4 +63,79 @@ as: &lt;i&gt;well-lit&lt;/i&gt;</back_example>
     <back>grey</back>
     <back_example>[ㄏㄨㄟ ㄙㄜˋ]</back_example>
   </card>
+  <card id="_1255416897">
+    <front>左</front>
+    <back>left</back>
+    <back_example>[ㄘㄜˋ]</back_example>
+  </card>
+  <card id="_1255416965">
+    <front>右</front>
+    <back>right</back>
+    <back_example>[ㄧㄡˋ]
+
+右側 : right side</back_example>
+  </card>
+  <card id="_1255417011">
+    <front>高</front>
+    <back>high</back>
+    <back_example>[ㄍㄠ]</back_example>
+  </card>
+  <card id="_1255417031">
+    <front>矮</front>
+    <back>short</back>
+    <back_example>[ㄞˇ]
+
+鮑伯比他弟弟矮。
+Bob is shorter than his younger brother.</back_example>
+  </card>
+  <card id="_1255417126">
+    <front>瘦</front>
+    <back>thin</back>
+    <back_example>[ㄕㄡˋ]</back_example>
+  </card>
+  <card id="_1255417194">
+    <front>胖</front>
+    <back>fat</back>
+    <back_example>[ㄆㄤˋ]</back_example>
+  </card>
+  <card id="_1255417204">
+    <front>寬闊</front>
+    <back>wide</back>
+    <back_example>[ㄎㄨㄢ ㄎㄨㄛˋ]</back_example>
+  </card>
+  <card id="_1255417236">
+    <front>狹窄</front>
+    <back>narrow</back>
+    <back_example>[ㄒㄧㄚˊ ㄓㄞˇ]</back_example>
+  </card>
+  <card id="_1255417263">
+    <front>久</front>
+    <back>long time</back>
+    <back_example>[ㄐㄧㄡˇ]</back_example>
+  </card>
+  <card id="_1255417351">
+    <front>長</front>
+    <back>long</back>
+    <back_example>[ㄔㄤˊ]</back_example>
+  </card>
+  <card id="_1255417362">
+    <front>輕</front>
+    <back>light weight</back>
+    <back_example>[ㄑㄧㄥ]</back_example>
+  </card>
+  <card id="_1255417413">
+    <front>乾</front>
+    <back>dry</back>
+    <back_example>[ㄍㄢ]</back_example>
+  </card>
+  <card id="_1255417435">
+    <front>濕</front>
+    <back>wet</back>
+    <back_example>[ㄕ]</back_example>
+  </card>
+  <card id="_1255417457">
+    <front>著名</front>
+    <back>famous</back>
+    <back_example>[ㄓㄨˋ ㄇㄧㄥˊ]</back_example>
+  </card>
 </deck>
