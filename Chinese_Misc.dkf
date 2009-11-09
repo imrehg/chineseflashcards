@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE deck SYSTEM "http://granule.sourceforge.net/granule.dtd">
+<deck>
+  <author>Main</author>
+  <description>Created on Mon 09 Nov 2009 18:51:56 CST</description>
+  <sound_path relative="no"/>
+  <pics_path relative="no"/>
+  <appearance enabled="no"/>
+  <card id="_1257763944">
+    <front>活動</front>
+    <back>activities</back>
+    <back_example>[ㄏㄨㄛˊ ㄉㄨㄥˋ]</back_example>
+  </card>
+  <card id="_1257764148">
+    <front>堂</front>
+    <back>hall</back>
+    <back_example>[ㄊㄤˊ]</back_example>
+  </card>
+</deck>
