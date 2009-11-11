@@ -16,4 +16,29 @@
     <back>hall</back>
     <back_example>[ㄊㄤˊ]</back_example>
   </card>
+  <card id="_1257928788">
+    <front>冬天</front>
+    <back>winter</back>
+    <back_example>[ㄉㄨㄥ ㄊㄧㄢ]</back_example>
+  </card>
+  <card id="_1257928828">
+    <front>夏天</front>
+    <back>summer</back>
+    <back_example>[ㄒㄧㄚˋ ㄊㄧㄢ]</back_example>
+  </card>
+  <card id="_1257928855">
+    <front>春天</front>
+    <back>spring</back>
+    <back_example>[ㄔㄨㄣ ㄊㄧㄢ]</back_example>
+  </card>
+  <card id="_1257928873">
+    <front>秋天</front>
+    <back>autumn</back>
+    <back_example>[ㄑㄧㄡ ㄊㄧㄢ]</back_example>
+  </card>
+  <card id="_1257928895">
+    <front>溫泉</front>
+    <back>hot spring</back>
+    <back_example>[ㄨㄣ ㄑㄩㄢˊ]</back_example>
+  </card>
 </deck>
